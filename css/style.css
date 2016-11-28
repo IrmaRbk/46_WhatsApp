@@ -1,3 +1,37 @@
+header{
+	height: 100px;
+}
 
+.img_principal{
+	height: 3em;
+}
 
+.letra_ch{
+	font-size:0.8em ;
+	margin-top: -5%;
+}
 
+.blanc{
+	background-color: white !important;
+}
+
+.padd{
+	padding:1em;
+}
+.menu_input{
+	width: 20em;
+}
+
+.marg{
+	margin: 1em;
+}
+.marg_icon{
+	margin: 0.4em;
+}
+
+.icon_input{
+	padding-left: 5em;
+}
+input{
+	border-radius:0.5em ; 
+}
